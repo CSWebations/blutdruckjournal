@@ -70,6 +70,7 @@ Ebenso ist die App ausschließlich für den persönlichen, nicht-kommerziellen G
 
 Die vollständigen Nutzungsbedingungen sind separat verfügbar:
 https://www.blutdruckjournal.de/nutzungsbedingungen
+
 ---
 
 ## Hinweise zum Datenschutz
@@ -82,6 +83,7 @@ Datenschutz hat bei BlutdruckJournal höchste Priorität:
 
 Die vollständige Datenschutzerklärung ist separat verfügbar:
 https://www.blutdruckjournal.de/app-datenschutz
+
 ---
 
 ## Lizenz & Nutzung
