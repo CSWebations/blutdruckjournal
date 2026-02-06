@@ -98,3 +98,12 @@ Alle Rechte bleiben beim Autor.
 Weitere Informationen zur App sowie rechtliche Hinweise findest du auf der Website:
 
 https://www.blutdruckjournal.de
+
+---
+
+## Feedback
+Danke, dass du die BlutdruckJournal-App ausprobierst!
+Ich freue mich sehr über dein Feedback – egal, ob positiv, neutral oder kritisch.
+Teile mir gerne deine Erfahrungen, Ideen oder Änderungswünsche mit.
+Du kannst dafür GitHub Issues, das Kontaktformular auf meiner Website oder info@blutdruckjournal.de nutzen.
+Jede Rückmeldung hilft, die App besser zu machen!
